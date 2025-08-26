@@ -16,7 +16,7 @@ It helps analyze **sales trends, top-performing products & stores, customer segm
 - **Data Cleaning & Transformation** done in Power Query.  
 
 ## 📂 Repository Contents
-- `Sales_Dashboard.pbix` → Power BI file containing the full interactive dashboard.  
+- `maven market analysis.pbix` → Power BI file containing the full interactive dashboard.  
 - `/screenshots/` → Key views of the dashboard (static images for quick preview).  
 
 ## 🚀 How to Use
