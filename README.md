@@ -17,7 +17,8 @@ It helps analyze **sales trends, top-performing products & stores, customer segm
 
 ## 📂 Repository Contents
 - `maven market analysis.pbix` → Power BI file containing the full interactive dashboard.  
-- `/screenshots/` → Key views of the dashboard (static images for quick preview).  
+- `/screenshots/` → Key views of the dashboard (static images for quick preview).
+- `screen recording` → Quick video showing the dashboard in action
 
 ## 🚀 How to Use
 1. Download the `.pbix` file.  
